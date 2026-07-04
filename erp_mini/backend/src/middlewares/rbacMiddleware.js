@@ -1,0 +1,1 @@
+// Ma trận kiểm tra quyền(Kiểm tra Module × Hành động truy cập)

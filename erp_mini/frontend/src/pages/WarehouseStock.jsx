@@ -1,0 +1,1 @@
+// Placeholder: WarehouseStock page

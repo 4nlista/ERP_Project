@@ -1,0 +1,1 @@
+// Placeholder: StockAdjustment page
